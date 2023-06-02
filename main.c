@@ -17,4 +17,5 @@ int main(int argc, const char * argv[]) {
     z = pi * x * x;
     printf("Chu vi %0.2f \n", y);
     printf("Dien tich %0.2f \n", z);
+    printf("Hello Git");
 }
